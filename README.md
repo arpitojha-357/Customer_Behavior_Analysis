@@ -177,7 +177,7 @@ The project demonstrates how raw data can be transformed into actionable busines
 
 ## 👨‍💻 Author
 
-**Your Name**
+**ARPIT OJHA**
 
 *Aspiring Data Analyst | Python | SQL | Power BI | Excel*
 
